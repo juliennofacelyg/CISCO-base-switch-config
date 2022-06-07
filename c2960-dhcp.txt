@@ -9,10 +9,10 @@ hostname S-TEST
 boot-start-marker
 boot-end-marker
 !
-enable secret 5 $1$NIoc$9FP0r9L1Dj2GgaPoCkHFp/
+enable secret 5 
 enable password test
 !
-username admin secret 5 $1$MVmS$3Vy2rXCU1P7IM5SfLAsHB.
+username admin secret 5 
 aaa new-model
 !
 !
